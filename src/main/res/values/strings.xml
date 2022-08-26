@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Подарок на день рождения</string>
+    <string name="to_label">To:</string>
+    <string name="email_hint">Enter email address</string>
+    <string name="subject_hint">Subject</string>
+    <string name="message_hint">Message</string>
+    <string name="send_button">Send</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="action_favorite">Любимое</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_info">О программе</string>
+    <string name="action_search">Поиск</string>
+    <string name="share">Поделиться</string>
+    <string name="name_radio">Название радиостанции</string>
+    <string name="name_url">Адрес радиостанции в интернете</string>
+    <string name="url">URL</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Отмена</string>
+    <string name="name">Название радиостанции</string>
+    <string name="add_radio">Добавить</string>
+    <string name="dialog_message">Вы уверены?</string>
+    <string name="dialog_title">Удалить радиостанцию</string>
+
+</resources>
